@@ -31,7 +31,7 @@ Then, in a new terminal tab, run `npm start` to run the React application.
 
 ## Deliverables
 
-### GET /questions
+## GET /questions
 
 When the application loads, get all the questions from
 `http://localhost:4000/questions` and display them using the `QuestionList`
@@ -71,7 +71,7 @@ In addition to updating the form, you should display the new question in the
 mistakes and send the body of your request in the wrong format, you'll need to
 manually delete the entry from the `db.json` file.
 
-### DELETE /questions/:id
+## DELETE /questions/:id
 
 When the user clicks the 'View Questions' button, a list of all the questions
 should show up (from deliverable 1). _When the delete button is clicked_, the
@@ -81,7 +81,7 @@ deleted on the server.
 Make sure to include the **id** of the question you're trying to delete in your
 request's url!
 
-### PATCH /questions/:id
+## PATCH /questions/:id
 
 When the user clicks the 'View Questions' button, a list of all the questions
 should show up (from deliverable 1). _When the dropdown for the correct answer
