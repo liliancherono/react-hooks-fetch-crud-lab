@@ -102,6 +102,8 @@ Body:
 }
 ```
 
+Make sure to include the **id** of the question you're trying to update in your
+request's url!
 
 ## Resources
 
