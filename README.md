@@ -17,6 +17,8 @@ There's some starter code set up, so you won't need to create any new components
 for this lab. Your goal will be to work with `fetch` and interact with our quiz
 API to perform the necessary CRUD operations to complete these deliverables.
 
+---
+
 ## Setup
 
 As usual, make sure to run `npm install` to install the necessary dependencies.
